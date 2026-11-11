@@ -1,6 +1,5 @@
 # app-dev
 
-
 # My Favorite Series: The Mentalist
 
 ## About the Series
